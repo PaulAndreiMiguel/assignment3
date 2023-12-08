@@ -8,15 +8,15 @@
 
 ### Frontend (index.html)
 
-- Path: `/var/www/my-site/index.html`
+- Path: `/var/www/my-site`
 
 ### Nginx Configuration File (hello.conf)
 
-- Path: `/etc/nginx/sites-available/hello.conf`
+- Path: `/etc/nginx/sites-available`
 
 ### Service File for Backend (hello-server.service)
 
-- Path: `/etc/systemd/system/hello-server.service`
+- Path: `/etc/systemd/system`
 
 ### Cloud Config Script (cloud-config.yml)
 
